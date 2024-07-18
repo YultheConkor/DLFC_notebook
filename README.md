@@ -1,6 +1,6 @@
 # DLFC_notebook
 
-The notebook for DLFC(Deep Learning: Foundations and Concepts) created by YultheConkr. Here's the contents:
+The notebook for DLFC(Deep Learning: Foundations and Concepts) created by YultheConkor. Here's the contents:
 
 1. The Deep Learning Revolution. [Notebook]
 
